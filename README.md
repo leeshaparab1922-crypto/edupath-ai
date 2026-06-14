@@ -184,14 +184,8 @@ EduPath AI addresses this by:
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+- GitHub: [@yourusername](https://github.com/leeshaparab1922-crypto)
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/parab-sanika/)
 
 ---
 
@@ -199,7 +193,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - [OpenRouter](https://openrouter.ai) — for providing free access to open-source AI models
 - - [DeepSeek](https://deepseek.com) — for the DeepSeek R1 open-source reasoning model
-- [United Nations](https://sdgs.un.org) — for the SDG framework guiding this project
 
 ---
 
