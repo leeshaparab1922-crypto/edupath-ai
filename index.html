@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>EduPath AI - Career Guidance</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>🎓 EduPath AI</h1>
+    <p>Intelligent Career Guidance — Supporting SDG 4: Quality Education</p>
+  </header>
+
+  <main>
+    <section class="input-section">
+      <label for="interest">Tell us about yourself:</label>
+      <textarea
+        id="interest"
+        placeholder="Example: I love coding, math, and problem-solving. I'm in 12th grade and enjoy building websites and apps..."
+        rows="6"
+      ></textarea>
+      <button id="submit-btn" onclick="getCareer()">
+        Get Career Guidance →
+      </button>
+    </section>
+
+    <section id="output-section" class="output-section hidden">
+      <h2>Your Personalized Career Roadmap</h2>
+      <div id="output"></div>
+    </section>
+
+    <div id="loading" class="loading hidden">
+      <div class="spinner"></div>
+      <p>Analyzing your profile...</p>
+    </div>
+
+    <div id="error-msg" class="error hidden"></div>
+  </main>
+
+  <footer>
+    <p> Aligned with UN SDG 4 - Quality Education</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
