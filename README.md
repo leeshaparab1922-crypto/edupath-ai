@@ -70,7 +70,7 @@ Student types their interests
                │ REST API Call
                ▼
 ┌─────────────────────────────────────┐
-│     OpenRouter AI (LLaMA 3.1)       │
+│     OpenRouter AI (DeepSeek R1)       │
 │   Processes prompt, generates       │
 │   personalized career guidance      │
 └──────────────┬──────────────────────┘
@@ -184,8 +184,8 @@ EduPath AI addresses this by:
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/leeshaparab1922-crypto)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/parab-sanika/)
+- GitHub: [leeshaparab1922-crypto](https://github.com/leeshaparab1922-crypto)
+- LinkedIn: [Sanika Parab](https://www.linkedin.com/in/parab-sanika/)
 
 ---
 
